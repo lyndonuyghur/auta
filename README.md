@@ -10,3 +10,6 @@
  - Kevin Rossel - Sentiment analysis implementation an web development.
  - Kevin Chu - Machine learning and bug fixing.
  - Zachary Wang - Web development and presentation.
+
+## Updates
+ - Winner of Most Creative
